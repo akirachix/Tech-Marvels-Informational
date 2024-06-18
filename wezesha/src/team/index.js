@@ -19,6 +19,7 @@ const Team = () => {
      <figure id="team-figcap">
         <img id="pic" src={pearl} alt="Pearl Cheshari"/>
         <figcaption id="figcap-text">Pearl Cheshari</figcaption>
+        <figcaption id="figcap-text">~Backend Developer</figcaption>
      </figure>
      </div>
 
@@ -26,6 +27,8 @@ const Team = () => {
      <figure id="team-figcap">
         <img id="pic" src={nabacwa} alt="Nancy Nabacwa"/>
         <figcaption id="figcap-text">Nancy Nabacwa</figcaption>
+      <figcaption id="figcap-text">~Product Manager</figcaption>
+
      </figure>
      </div>
 
@@ -33,6 +36,8 @@ const Team = () => {
      <figure id="team-figcap">
         <img id="pic" src={gloria} alt="Gloria Nyaga"/>
         <figcaption id="figcap-text">Gloria Nyaga</figcaption>
+        <figcaption id="figcap-text">~Frontend Developer</figcaption>
+        
      </figure>
      </div>
 
@@ -40,6 +45,7 @@ const Team = () => {
      <figure id="team-figcap">
         <img id="pic" src={karen} alt="Karen Philip"/>
         <figcaption id="figcap-text">Karen Philip</figcaption>
+   <figcaption id="figcap-text">~Researcher</figcaption>
      </figure>
      </div>
 
@@ -47,6 +53,7 @@ const Team = () => {
      <figure id="team-figcap">
         <img id="pic" src={kathure} alt="Bridget Kathure"/>
         <figcaption id="figcap-text">Bridget Kathure</figcaption>
+        <figcaption id="figcap-text">~Designer</figcaption>
      </figure>
      </div>
 

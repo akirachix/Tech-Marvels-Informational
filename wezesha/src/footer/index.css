@@ -19,12 +19,12 @@
     height:170px;
     width: 170px;
     margin-top: 2%;
-    margin-left: 3%;
+    margin-left: 5%;
   }
   @media screen and (min-width: 280px) and (max-width: 412px) {
     #footer {
       margin-top: -6%;
-      width: 104%;
+      width: 100%;
       display: block;
       /* flex-direction: column; */
     }
@@ -104,15 +104,15 @@
       gap: 6%;
     }
     #footer-text {
-      margin-left:1%;
+      margin-left:2%;
       font-size: larger;
       display: flex;
-      gap: 20%;
+      gap: 45%;
     }
     #logofooter{
      width: 200px;
      height: 200px;
-     margin-top: 5%;
+     margin-top: 2%;
       }
   }
   @media screen and (min-width: 1301px) and (max-width: 1400px){
@@ -124,6 +124,6 @@
       margin-left:1%;
       font-size: larger;
       display: flex;
-      gap: 20%;
+      gap: 42%;
     }
   }
