@@ -28,21 +28,19 @@ const Product = () =>{
                 </div>
             </div>
 
-            <div id= 'wezesha-dashboard'>
-                <div className='about-dashboard'>
-                    <h1>Wezesha Dashboard</h1>
-                    <p>Wezesha dashboard will help SACCOs improve
+            <div id= 'wezesha-web-portal'>
+                <div id='about-portal'>
+                    <h1>Wezesha Web Portal</h1>
+                    <p>Wezesha web portal will help SACCOs improve
                         their loan evaluation processes, and streamline
                         record-keeping contributing to their growth and
                         sustainability.
                     </p>
                 </div>
                 <div>
-                    <img id= "dashboard-pic" src ={dashboard} alt= "Wezesha dashboard"/>  
+                    <img id= "web-portal-pic" src ={dashboard} alt= "Wezesha web portal"/>  
                 </div>
             </div>
-
-
 
 
         </body>
