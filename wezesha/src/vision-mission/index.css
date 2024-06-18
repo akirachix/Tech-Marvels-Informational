@@ -1,0 +1,320 @@
+welcome{
+    background-color: #ffffff;
+    display: flex;
+    margin-left: -172px;
+}
+
+.our-mission{
+    color: rgb(0, 0, 0);
+    flex-wrap: wrap;
+    width: 30%;
+    margin-top: 27px;
+    margin-left: 58%;
+    font-size: 23px;
+    text-align: start;
+}
+.our-vission{
+    color: rgb(0, 0, 0);
+    width: 30%;
+    margin-top: 18px;
+    text-align: start;
+    margin-left: 23%;
+    flex-wrap: wrap;
+    font-size: 23px;
+}
+#image{
+    width: 323px;
+    height: 259px;
+    margin-top: -3px;
+    margin-left: 64%;
+}
+.imagee{
+    margin-top: -19.8%;
+    margin-left: -70px;
+}
+.mision{
+   margin-left: -57px;
+   margin-top: 2%;
+}
+#images{
+    width: 260px;
+    height: 25
+    5px;
+    margin-top: -39px;
+    margin-left: 30%; 
+}
+ 
+@media screen and (min-width:280px) and (max-width:412px){
+        #image{
+            width: 190px;
+            height: 160px;
+            margin-top: 20px;
+            margin-left: 34%;
+        }
+    #images {
+        width: 150px;
+        height: 160px;
+        margin-top: 20px; 
+        margin-left: 63%; 
+        transform: translateX(-50%);
+    }
+    .welcome{
+        display: block;
+    }
+    .our-mission{
+        color: rgb(0, 0, 0);
+        flex-wrap: wrap;
+        width: 63%;
+        margin-top: 12px;
+        margin-left:100px;
+        font-size: 15px;
+        text-align: start;
+    }
+    .our-vission{
+        color: rgb(0, 0, 0);
+        width: 63%;
+        margin-top: 12px;
+        text-align: start;
+        margin-left: 120px;
+        flex-wrap: wrap;
+        font-size: 15px;
+    }
+    .imagee{
+        margin-top: 15%;
+        margin-left: -70px;
+    }
+    .mision{
+        margin-left: -57px;
+     }
+  }
+  @media screen and (min-width:414px) and (max-width:556px){
+    #image {
+        width: 280px;
+        height: 220px;
+        margin-top: 20px; 
+        margin-left: 89%; 
+        transform: translateX(-50%);
+    }
+
+    #images {
+        width: 250px;
+        height: 250px;
+        margin-top: 20px; 
+        margin-left: 85%; 
+        transform: translateX(-50%);
+    }
+    .welcome{
+        display: block;
+    }
+    .our-mission{
+        color: rgb(0, 0, 0);
+        flex-wrap: wrap;
+        width: 123%;
+        margin-top: 12px;
+        margin-left:140px;
+        font-size: 32px;
+        text-align: start;
+    }
+    .our-vission{
+        color: rgb(0, 0, 0);
+        width: 123%;
+        margin-top: 12px;
+        text-align: start;
+        margin-left: 150px;
+        flex-wrap: wrap;
+        font-size: 32px;
+    }
+    .imagee{
+        margin-top: 15%;
+        margin-left: -70px;
+    }
+    .mision{
+        margin-left: -57px;
+     }
+   
+  }
+  @media screen and (min-width:557px) and (max-width:739px){
+    #image {
+        width: 360px;
+        height: 250px;
+        margin-top: 20px; 
+        margin-left: 120%; 
+        transform: translateX(-50%);
+    }
+
+    #images {
+        width: 320px;
+        height: 277px;
+        margin-top: 20px; 
+        margin-left: 120%; 
+        transform: translateX(-50%);
+    }
+    .welcome{
+        display: block;
+    }
+    .our-mission{
+        color: rgb(0, 0, 0);
+        flex-wrap: wrap;
+        width: 123%;
+        margin-top: 12px;
+        margin-left:380px;
+        font-size: 35px;
+        text-align: start;
+    }
+    .our-vission{
+        color: rgb(0, 0, 0);
+        width: 123%;
+        margin-top: 12px;
+        text-align: start;
+        margin-left: 384px;
+        flex-wrap: wrap;
+        font-size: 35px;
+    }
+    .imagee{
+        margin-top: 15%;
+        margin-left: -70px;
+    }
+    .mision{
+        margin-left: -57px;
+     }
+    }
+  
+  @media screen and (min-width:740px) and (max-width:886px){
+    #image {
+        width: 270px;
+        height: 220px;
+        margin-top: 20px; 
+        margin-left: 50%; 
+        transform: translateX(-50%);
+    }
+
+    #images {
+        width: 230px;
+        height: 220px;
+        margin-top: 20px; 
+        margin-left: 50%; 
+        transform: translateX(-50%);
+    }
+    .welcome{
+        display: block;
+    }
+    .our-mission{
+        color: rgb(0, 0, 0);
+        flex-wrap: wrap;
+        width: 63%;
+        margin-top: 12px;
+        margin-left:180px;
+        font-size: 25px;
+        text-align: start;
+    }
+    .our-vission{
+        color: rgb(0, 0, 0);
+        width: 63%;
+        margin-top: 12px;
+        text-align: start;
+        margin-left: 180px;
+        flex-wrap: wrap;
+        font-size: 25px;
+    }
+    .imagee{
+        margin-top: 15%;
+        margin-left: -70px;
+    }
+    .mision{
+        margin-left: -57px;
+     }
+  }
+  
+   @media screen and (min-width:887px) and (max-width:1100px){
+    #image {
+        width: 370px;
+        height: 280px;
+        margin-top: 20px; 
+        margin-left: 50%; 
+        transform: translateX(-50%);
+    }
+
+    #images {
+        width: 300px;
+        height: 320px;
+        margin-top: 20px; 
+        margin-left: 46%; 
+        transform: translateX(-50%);
+    }
+    .welcome{
+        display: block;
+    }
+    .our-mission{
+        color: rgb(0, 0, 0);
+        flex-wrap: wrap;
+        width: 63%;
+        margin-top: 12px;
+        margin-left:180px;
+        font-size: 25px;
+        text-align: start;
+    }
+    .our-vission{
+        color: rgb(0, 0, 0);
+        width: 53%;
+        margin-top: 12px;
+        text-align: start;
+        margin-left: 200px;
+        flex-wrap: wrap;
+        font-size: 25px;
+    }
+    .imagee{
+        margin-top: 15%;
+        margin-left: -70px;
+    }
+    .mision{
+        margin-left: -57px;
+     }
+     
+  } 
+  
+  @media screen and (min-width:1101px) and (max-width:1300px){
+    #image {
+        width: 460px;
+        height: 350px;
+        margin-top: 20px; 
+        margin-left: 50%; 
+        transform: translateX(-50%);
+    }
+
+    #images {
+        width: 370px;
+        height: 360px;
+        margin-top: 20px; 
+        margin-left: 40%; 
+        transform: translateX(-50%);
+    }
+    .welcome{
+        display: block;
+    }
+    .our-mission{
+        color: rgb(0, 0, 0);
+        flex-wrap: wrap;
+        width: 63%;
+        margin-top: 12px;
+        margin-left:180px;
+        font-size:35px;
+        text-align: start;
+    }
+    .our-vission{
+        color: rgb(0, 0, 0);
+        width: 53%;
+        margin-top: 12px;
+        text-align: start;
+        margin-left: 200px;
+        flex-wrap: wrap;
+        font-size: 35px;
+    }
+    .imagee{
+        margin-top: 15%;
+        margin-left: -70px;
+    }
+    .mision{
+        margin-left: -57px;
+     }
+   
+  } 
