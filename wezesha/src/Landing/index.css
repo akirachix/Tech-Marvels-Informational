@@ -1,14 +1,14 @@
 
 
 .navbar{
-    font-size: 20px;
+    font-size: 30px;
     font-weight: 500;
     gap: 60px;
     display: flex;
     margin: 60px;
     padding: 10px;
     margin-left: 0;
-    padding-left: 50%;
+    padding-left: 40%;
    
 
 }
@@ -35,12 +35,13 @@
     text-wrap: wrap;
     width: 40%;
     margin-left: 5%;
-    font-size: 30px;
+    font-size: 32px;
 }
 .wezeshatexts{
     color: rgb(59, 137, 240);
     text-decoration: none;
     font-weight: 500;
+    
 }
 .buttons{
  padding: 15% 5px;  
@@ -104,34 +105,39 @@ font-size: 20px;
         
     }
     .wezeshatext{
-        font-size: 10px;
+        font-size: 15px;
+        width: 80%;
     }
     .downloadButton{
     padding: 20px;
     width: 200px;
     margin-top: 20px;
     border-radius: 10px;
-    font-size: 10px;
+    font-size: 15px;
     }
     .dashboardButton{
-        margin-left: 6%;
-        font-size: 10px;
+        margin-left: -1%;
+        font-size: 15px;
         padding: 20px;
         width: 200px;
         margin-top: 20px;
         border-radius: 10px;
     }
+    .buttons{
+        margin-left: 15%;
+        margin-top: -10%;
+    }
     .wezeshawelcometext{
-        display: flex;
+        display: block;
         gap: 10%;
         margin-top: 10px;
         
     }
     .landingpic{
         border-radius: 10%;
-        margin-top: -20%;
-        width: 100px;
-        height: 150px;
+        width: 300px;
+        height: 190px;
+        margin-left: 7%;
         object-fit: cover;
        
     }
@@ -146,8 +152,8 @@ font-size: 20px;
     
     }
     .logopicture{
-    width: 100px;
-    height: 120px;
+    width: 80px;
+    height: 100px;
      margin-top: 30px;
     }
     .heading{
@@ -155,34 +161,39 @@ font-size: 20px;
         
     }
     .wezeshatext{
-        font-size: 10px;
+        font-size: 15px;
+        width: 80%;
+    }
+    .buttons{
+        margin-left: 20%;
     }
     .downloadButton{
     padding: 25px;
     width: 200px;
     margin-top: 20px;
     border-radius: 10px;
-    font-size: 10px;
+    font-size: 15px;
     }
     .dashboardButton{
-        margin-left: 7%;
-        font-size: 10px;
+        margin-left: -1%;
+        font-size: 15px;
         padding: 25px;
-        width: 150px;
+        width: 200px;
         margin-top: 20px;
         border-radius: 10px;
     }
     .wezeshawelcometext{
-        display: flex;
+        display: block;
         gap: 10%;
         margin-top: 30px;
+        
         
     }
     .landingpic{
         border-radius: 10%;
-        margin-top: -20%;
-        width: 150px;
-        height: 130px;
+        width: 300px;
+        height: 190px;
+        margin-left: 7%;
         object-fit: cover;
        
     }
@@ -248,23 +259,24 @@ font-size: 20px;
     
     }
     .logopicture{
-    width: 100px;
-    height: 120px;
-     margin-top: 30px;
+    width: 150px;
+    height: 180px;
+     margin-top: 40px;
     }
     .heading{
         display: flex;
         
     }
     .wezeshatext{
-        font-size: 10px;
+        font-size: 30px;
+        width: 80%;
     }
     .downloadButton{
     padding: 25px;
     width: 200px;
     margin-top: 20px;
     border-radius: 10px;
-    font-size: 10px;
+    font-size: 15px;
     }
     .dashboardButton{
         margin-left: 7%;
@@ -272,24 +284,26 @@ font-size: 20px;
         padding: 25px;
         width: 200px;
         margin-top: 20px;
-        border-radius: 10px;
+        border-radius: 15px;
     }
     .wezeshawelcometext{
-        display: flex;
+        display: block;
         gap: 10%;
         margin-top: 30px;
         
     }
     .landingpic{
         border-radius: 10%;
-        margin-top: -20%;
-        width: 150px;
-        height: 130px;
+        width: 600px;
+        height: 500px;
+        margin-left: 7%;
         object-fit: cover;
+        margin-top: 3%;
        
     }
 }
 @media screen and (min-width:887px)and (max-width:1100px){
+
 
     .navbar{
         font-size: 10px;
@@ -299,59 +313,63 @@ font-size: 20px;
     
     }
     .logopicture{
-    width: 100px;
-    height: 120px;
-     margin-top: 30px;
+    width: 150px;
+    height: 180px;
+     margin-top: 40px;
     }
     .heading{
         display: flex;
         
     }
     .wezeshatext{
-        font-size: 10px;
+        font-size: 30px;
+        width: 40%;
     }
-    .downloadButton{
-    padding: 25px;
-    width: 200px;
-    margin-top: 20px;
-    border-radius: 10px;
-    font-size: 10px;
-    }
-    .dashboardButton{
-        margin-left: 7%;
-        font-size: 10px;
-        padding: 25px;
-        width: 200px;
-        margin-top: 20px;
-        border-radius: 10px;
-    }
+ 
     .wezeshawelcometext{
         display: flex;
-        gap: 10%;
-        margin-top: 30px;
+        gap: 5%;
+        margin-top: 80px;
         
     }
+    .downloadButton{
+        padding: 30px;
+        width: 350px;
+        margin-top: 20px;
+        border-radius: 10px;
+        font-size: 30px;
+        }
+        .dashboardButton{
+            margin-left: -1%;
+            font-size: 30px;
+            padding: 30px;
+            width: 350px;
+            margin-top: 60px;
+            border-radius: 10px;
+        }
+
     .landingpic{
         border-radius: 10%;
-        margin-top: -20%;
-        width: 150px;
-        height: 130px;
+        width: 400px;
+        height: 300px;
+        margin-left: 7%;
         object-fit: cover;
+        
        
     }
 }
 @media screen and (min-width:1100px)and (max-width:1300px){
 
     .navbar{
-        font-size: 10px;
+        font-size: 30px;
         font-weight: 400;
-        gap: 10px;
+        gap: 10%;
         display: block;
     
     }
     .logopicture{
-    width: 100px;
-    height: 120px;
+    width: 150px;
+    height: 180px;
      margin-top: 30px;
     }
     .heading{
@@ -359,18 +377,18 @@ font-size: 20px;
         
     }
     .wezeshatext{
-        font-size: 10px;
+        font-size: 30px;
     }
     .downloadButton{
     padding: 25px;
     width: 200px;
     margin-top: 20px;
     border-radius: 10px;
-    font-size: 10px;
+    font-size: 30px;
     }
     .dashboardButton{
         margin-left: 7%;
-        font-size: 10px;
+        font-size: 30px;
         padding: 25px;
         width: 200px;
         margin-top: 20px;
@@ -384,9 +402,9 @@ font-size: 20px;
     }
     .landingpic{
         border-radius: 10%;
-        margin-top: -20%;
-        width: 150px;
-        height: 130px;
+        width: 400px;
+        height: 300px;
+        margin-left: 7%;
         object-fit: cover;
        
     }
@@ -394,15 +412,15 @@ font-size: 20px;
 @media screen and (min-width:1300px)and (max-width:1400px){
 
     .navbar{
-        font-size: 10px;
+        font-size: 30px;
         font-weight: 400;
         gap: 10px;
         display: block;
     
     }
     .logopicture{
-    width: 100px;
-    height: 120px;
+    width: 180px;
+    height: 150px;
      margin-top: 30px;
     }
     .heading{
@@ -410,7 +428,7 @@ font-size: 20px;
         
     }
     .wezeshatext{
-        font-size: 10px;
+        font-size: 30px;
     }
     .downloadButton{
     padding: 25px;
