@@ -10,7 +10,7 @@ welcome{
     width: 30%;
     margin-top: 27px;
     margin-left: 58%;
-    font-size: 23px;
+    font-size: 30px;
     text-align: start;
 }
 .our-vission{
@@ -20,17 +20,17 @@ welcome{
     text-align: start;
     margin-left: 23%;
     flex-wrap: wrap;
-    font-size: 23px;
+    font-size: 30px;
 }
 #image{
     width: 323px;
     height: 259px;
-    margin-top: -3px;
+    margin-top: -6px;
     margin-left: 64%;
 }
 .imagee{
-    margin-top: -19.8%;
-    margin-left: -70px;
+    margin-top: -21.4%;
+    margin-left: -270px;
 }
 .mision{
    margin-left: -57px;
@@ -55,7 +55,7 @@ welcome{
         width: 150px;
         height: 160px;
         margin-top: 20px; 
-        margin-left: 63%; 
+        margin-left: 54%; 
         transform: translateX(-50%);
     }
     .welcome{
@@ -89,18 +89,18 @@ welcome{
   }
   @media screen and (min-width:414px) and (max-width:556px){
     #image {
-        width: 280px;
-        height: 220px;
+        width: 208px;
+        height: 160px;
         margin-top: 20px; 
-        margin-left: 89%; 
+        margin-left: 59%; 
         transform: translateX(-50%);
     }
 
     #images {
-        width: 250px;
-        height: 250px;
-        margin-top: 20px; 
-        margin-left: 85%; 
+        width: 170px;
+        height: 170px;
+        margin-top: 14px; 
+        margin-left: 58%; 
         transform: translateX(-50%);
     }
     .welcome{
@@ -109,20 +109,20 @@ welcome{
     .our-mission{
         color: rgb(0, 0, 0);
         flex-wrap: wrap;
-        width: 123%;
+        width: 63%;
         margin-top: 12px;
         margin-left:140px;
-        font-size: 32px;
+        font-size: 18px;
         text-align: start;
     }
     .our-vission{
         color: rgb(0, 0, 0);
-        width: 123%;
+        width: 63%;
         margin-top: 12px;
         text-align: start;
         margin-left: 150px;
         flex-wrap: wrap;
-        font-size: 32px;
+        font-size: 18px;
     }
     .imagee{
         margin-top: 15%;
@@ -130,6 +130,7 @@ welcome{
     }
     .mision{
         margin-left: -57px;
+        margin-top: -6%;
      }
    
   }
@@ -138,15 +139,15 @@ welcome{
         width: 360px;
         height: 250px;
         margin-top: 20px; 
-        margin-left: 120%; 
+        margin-left: 105%; 
         transform: translateX(-50%);
     }
 
     #images {
-        width: 320px;
+        width: 308px;
         height: 277px;
         margin-top: 20px; 
-        margin-left: 120%; 
+        margin-left: 100%; 
         transform: translateX(-50%);
     }
     .welcome{
@@ -155,7 +156,7 @@ welcome{
     .our-mission{
         color: rgb(0, 0, 0);
         flex-wrap: wrap;
-        width: 123%;
+        width: 110%;
         margin-top: 12px;
         margin-left:380px;
         font-size: 35px;
@@ -163,7 +164,7 @@ welcome{
     }
     .our-vission{
         color: rgb(0, 0, 0);
-        width: 123%;
+        width: 110%;
         margin-top: 12px;
         text-align: start;
         margin-left: 384px;
@@ -172,10 +173,10 @@ welcome{
     }
     .imagee{
         margin-top: 15%;
-        margin-left: -70px;
+        margin-left: -286px;
     }
     .mision{
-        margin-left: -57px;
+        margin-left: -287px;
      }
     }
   
@@ -222,6 +223,7 @@ welcome{
     }
     .mision{
         margin-left: -57px;
+        margin-top: -23px;
      }
   }
   
@@ -230,7 +232,7 @@ welcome{
         width: 370px;
         height: 280px;
         margin-top: 20px; 
-        margin-left: 50%; 
+        margin-left: 54%; 
         transform: translateX(-50%);
     }
 
@@ -238,7 +240,7 @@ welcome{
         width: 300px;
         height: 320px;
         margin-top: 20px; 
-        margin-left: 46%; 
+        margin-left: 48%; 
         transform: translateX(-50%);
     }
     .welcome{
@@ -264,10 +266,10 @@ welcome{
     }
     .imagee{
         margin-top: 15%;
-        margin-left: -70px;
+        margin-left: 30px;
     }
     .mision{
-        margin-left: -57px;
+        margin-left: 30px;
      }
      
   } 
@@ -277,7 +279,7 @@ welcome{
         width: 460px;
         height: 350px;
         margin-top: 20px; 
-        margin-left: 50%; 
+        margin-left: 53%; 
         transform: translateX(-50%);
     }
 
@@ -285,7 +287,7 @@ welcome{
         width: 370px;
         height: 360px;
         margin-top: 20px; 
-        margin-left: 40%; 
+        margin-left: 43%; 
         transform: translateX(-50%);
     }
     .welcome{
@@ -311,10 +313,10 @@ welcome{
     }
     .imagee{
         margin-top: 15%;
-        margin-left: -70px;
+        margin-left: 50px;
     }
     .mision{
-        margin-left: -57px;
+        margin-left: 37px;
      }
    
   } 

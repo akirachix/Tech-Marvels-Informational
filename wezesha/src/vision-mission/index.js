@@ -18,7 +18,7 @@ const Welcome=()=>{
         <div className='imagee'>
             <img id ="images" src={vision}/>
             <div className='our-vission'>
-                Our vission is to transform dairy farming
+                Our vision is to transform dairy farming
                 through digital innovation and financial 
                 empowerment.
             </div>
