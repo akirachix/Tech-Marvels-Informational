@@ -1,13 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Karma:wght@300;400;500;600;700&display=swap');
 .container{
     background-color: #2a88bb;
-    height: 500px;
+    height: 550px;
     flex-wrap: wrap;
+    font-family: 'Karma',sans-serif;
     margin-top: 10%;
     position: relative;
     }
     .about-heading{
         position:absolute;
-        bottom: 60%;
+        bottom: 65%;
         left: 40%;
         font-size: 50px;
         color: white;
@@ -15,14 +17,14 @@
     .welcome-text{
         position:absolute;
         bottom: 45%;
-        left: 19%;
-        width: 63.59%;
+        left: 10.5%;
+        width: 80%;
         flex-wrap: wrap;
     
     }
     .welcome-text p{
         color: white;
-        font-size: x-large;
+        font-size: 30px;
     }
     
     .wezesha-img{
@@ -39,12 +41,12 @@
     }
     
     .wezesha-img img{
-        width: 120px;
+        width: 110px;
         margin-top: 20px;
     }
     .ourStory-heading{
         position:absolute;
-        bottom:20%;
+        bottom:28%;
         left: 44%;
         font-size: 50px;
         color: white;
@@ -52,19 +54,19 @@
     .ourStory-text{
         position:absolute;
         bottom: 1%;
-        left: 19%;
-        width: 65%;
+        left: 10.5%;
+        width:80%;
         flex-wrap: wrap;
     }
     .ourStory-text p{
         color: white;
-        font-size: x-large;
+        font-size: 30px;
     }
     
     @media only screen and (min-width: 280px) and (max-width: 359px) {
         .container{
-            height: 620px;
-            margin-top: 20%;
+            height: 550px;
+            margin-top: 15%;
             }
     
             .wezesha-img{
@@ -80,39 +82,39 @@
                 margin-top: 20px;
             }
             .about-heading{
-                bottom: 80%;
-                left: 12%;
+                bottom: 78%;
+                left: 10%;
                 font-size: 30px;
             }
             .welcome-text{
-                bottom: 52%;
-                left: 12%;
+                bottom: 54%;
+                left: 10%;
                 width: 85%;
             
             }
             .welcome-text p{
-                font-size: 18px;
+                font-size: 15px;
             }
 
             .ourStory-heading{
-                bottom:43%;
-                left: 12%;
+                bottom:38%;
+                left: 10%;
                 font-size: 30px;
             }
             .ourStory-text{
                 bottom: 1%;
-                left: 12%;
+                left: 10%;
                 width: 85%;
             }
             .ourStory-text p{
-                font-size: 18px;
+                font-size: 15px;
             }
     }
 
     @media only screen and (min-width: 360px) and (max-width: 380px) {
         .container{
-            height: 650px;
-            margin-top: 20%;
+            height: 610px;
+            margin-top: 15%;
             }
     
             .wezesha-img{
@@ -124,36 +126,36 @@
             
             }
             .wezesha-img img{
-                width: 80px;
+                width: 68px;
                 margin-top: 20px;
             }
             .about-heading{
-                bottom: 78%;
+                bottom: 76%;
                 left: 12%;
                 font-size: 30px;
             }
             .welcome-text{
-                bottom: 49%;
+                bottom: 50%;
                 left: 12%;
                 width: 85%;
             
             }
             .welcome-text p{
-                font-size: 20px;
+                font-size: 17px;
             }
 
             .ourStory-heading{
-                bottom:39%;
+                bottom:40%;
                 left: 12%;
                 font-size: 30px;
             }
             .ourStory-text{
-                bottom: 1%;
+                bottom: 7%;
                 left: 12%;
                 width: 85%;
             }
             .ourStory-text p{
-                font-size: 20px;
+                font-size: 17px;
             }
     }
 
@@ -172,7 +174,7 @@
             
             }
             .wezesha-img img{
-                width: 80px;
+                width: 68px;
                 margin-top: 20px;
             }
             .about-heading{
@@ -181,7 +183,7 @@
                 font-size: 30px;
             }
             .welcome-text{
-                bottom: 49%;
+                bottom: 52%;
                 left: 12%;
                 width: 85%;
             
@@ -208,7 +210,7 @@
     @media screen and (min-width: 481px) and (max-width: 580px) {
         .container{
             height: 650px;
-            margin-top: 20%;
+            margin-top: 10%;
             }
     
             .wezesha-img{
@@ -219,36 +221,36 @@
             
             }
             .wezesha-img img{
-                width: 90px;
+                width: 80px;
                 margin-top: 20px;
             }
             .about-heading{
                 bottom: 75%;
-                left: 12%;
+                left: 10%;
                 font-size: 35px;
             }
             .welcome-text{
-                bottom: 47%;
-                left: 12%;
+                bottom: 50%;
+                left: 10%;
                 width: 85%;
             
             }
             .welcome-text p{
-                font-size: 25px;
+                font-size: 23px;
             }
 
             .ourStory-heading{
                 bottom:38%;
-                left: 12%;
+                left: 10%;
                 font-size: 35px;
             }
             .ourStory-text{
                 bottom: 1%;
-                left: 12%;
-                width: 85%;
+                left: 10%;
+                width: 82%;
             }
             .ourStory-text p{
-                font-size: 25px;
+                font-size: 23px;
             }
 
     }
@@ -267,7 +269,7 @@
             
             }
             .wezesha-img img{
-                width: 120px;
+                width: 110px;
                 margin-top: 20px;
             }
             .about-heading{
@@ -303,7 +305,7 @@
     @media screen and (min-width: 820px) and (max-width: 920px) {
         .container{
             height: 650px;
-            margin-top: 20%;
+            margin-top: 10%;
             }
     
             .wezesha-img{
@@ -314,36 +316,84 @@
             
             }
             .wezesha-img img{
-                width: 120px;
+                width: 110px;
                 margin-top: 20px;
             }
             .about-heading{
                 bottom: 70%;
-                left: 10%;
-                font-size: 35px;
+                left: 8%;
+                font-size: 38px;
             }
             .welcome-text{
                 bottom: 47%;
-                left: 10%;
+                left: 8%;
                 width: 85%;
             
             }
             .welcome-text p{
-                font-size: 25px;
+                font-size: 28px;
             }
 
             .ourStory-heading{
-                bottom:29%;
-                left: 10%;
-                font-size: 35px;
+                bottom:30%;
+                left: 8%;
+                font-size: 38px;
             }
             .ourStory-text{
                 bottom: 1%;
-                left: 10%;
+                left: 8%;
                 width: 85%;
             }
             .ourStory-text p{
-                font-size: 25px;
+                font-size: 28px;
             }
+
+    }
+
+    @media screen and (min-width: 921px) and (max-width: 1024px) {
+        .container{
+            height: 650px;
+            margin-top: 10%;
+            }
+    
+            .wezesha-img{
+                top: -15%;
+                left: 37%;    
+                width: 200px;
+                height: 200px;
+            
+            }
+            .wezesha-img img{
+                width: 110px;
+                margin-top: 20px;
+            }
+            .about-heading{
+                bottom: 70%;
+                left: 8%;
+                font-size: 40px;
+            }
+            .welcome-text{
+                bottom: 45%;
+                left: 8%;
+                width: 85%;
+            
+            }
+            .welcome-text p{
+                font-size: 30px;
+            }
+
+            .ourStory-heading{
+                bottom:31%;
+                left: 8%;
+                font-size: 40px;
+            }
+            .ourStory-text{
+                bottom: 1%;
+                left: 8%;
+                width: 85%;
+            }
+            .ourStory-text p{
+                font-size: 30px;
+            } 
 
     }
