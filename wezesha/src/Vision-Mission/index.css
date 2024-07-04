@@ -308,44 +308,44 @@ body{
 
 @media screen and (min-width:1020px) and (max-width:1280px){
     body{
-        display: block;
+        display: flex;
         margin-left: -3.5%;
-        font-size: 20px;
-        margin-top: 5%;
+        font-size: 24px;
         font-family: 'Karma',sans-serif;
         margin-bottom: 5%;
     }
 
     .mission-text{
-        width:60%;
-        margin-left: 25%;
+        width:70%;
+        margin-left: 18%;
         flex-wrap: wrap;
     }
 
     .vision-text{
-        width:60%;
+        width:90%;
         flex-wrap: wrap;
-        margin-left: 25%;
+        margin-left: 2px;
+        margin-top: -4px;
     }
 
     #mission-image{
-        margin-left: 40%;
-        width: 400px;
+        margin-left: 30%;
+        width: 350px;
     }
 
     #vision-image{
-        margin-left: 40%;
-        width: 309px;
-        margin-top: 33px;
+        margin-left: 12%;
+        width: 280px;
+        margin-top: 5px;
     }
 
 }
 
 @media screen and (min-width:1280px) and (max-width:1400px){
     body{
-        display: block;
-        margin-left: 17px;
-        font-size: 20px;
+        display: flex;
+        margin-left: 10px;
+        font-size: 30px;
         margin-top: 5%;
         font-family: 'Karma',sans-serif;
         margin-bottom: 5%;
@@ -354,28 +354,28 @@ body{
     }
 
     .mission-text{
-        width:50%;
-        margin-left: 25%;
+        width:70%;
+        margin-left: 5%;
         flex-wrap: wrap;
+        margin-top: 12px;
         
     }
 
     .vision-text{
-        width:50%;
+        width:90%;
         flex-wrap: wrap;
-        margin-left: 255;
-       
+        margin-left: 8px;
+        margin-top: 12px;
     }
 
     #mission-image{
-        margin-left: 38%;
+        margin-left: 15%;
         /* width: 23%;  */
     }
 
     #vision-image{
-        margin-left: 40%;
-        margin-top: 33px;
-        margin-left: 40%;
+        margin-left: 15%;
+        margin-top: 5px;
         /* width: 18%; */
     }
 
