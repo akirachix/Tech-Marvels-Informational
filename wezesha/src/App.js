@@ -6,8 +6,8 @@ const wezeshaApp =()=>{
   return(
     <div>
       <h1></h1>
-      <Product/>
       <About/>
+      <Product/>
     </div>
   )
 }
