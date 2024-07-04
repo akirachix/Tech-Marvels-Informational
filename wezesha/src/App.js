@@ -1,4 +1,3 @@
-
 import Product from "./Product"
 import {About} from './About'
 
@@ -8,6 +7,7 @@ const wezeshaApp =()=>{
       <h1></h1>
       <About/>
       <Product/>
+      <About/>
     </div>
   )
 }
