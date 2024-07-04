@@ -1,12 +1,13 @@
+import { ImPodcast } from "react-icons/im";
 
-import Welcome from "./Vision-Mission"
+import VisionAndMission from "./Vision-Mission";
 
 
 const wezeshaApp =()=>{
   return(
     <div>
       <h1></h1>
-      <Welcome/>
+      <VisionAndMission/>
     </div>
   )
 }

@@ -3,7 +3,7 @@ import mission from  '../images/mission.png';
 import vision  from '../images/vision.png';
 
 
-const Welcome=()=>{
+const VisionAndMission=()=>{
     return(
     <body>
         <div className='mission'>
@@ -27,4 +27,4 @@ const Welcome=()=>{
     </body> 
     )
 }
-export default Welcome;
+export default VisionAndMission;
