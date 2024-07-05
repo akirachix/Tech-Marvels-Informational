@@ -5,7 +5,7 @@ import vision  from '../images/vision.png';
 
 const VisionAndMission=()=>{
     return(
-    <body>
+    <div  id="vision-about">
         <div className='mission'>
             <img id ="mission-image" src={mission}/>
             <div className='mission-text'>
@@ -24,7 +24,7 @@ const VisionAndMission=()=>{
                 empowerment.
             </div>
         </div>
-    </body> 
+    </div> 
     )
 }
 export default VisionAndMission;
