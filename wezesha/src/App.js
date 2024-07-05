@@ -1,15 +1,17 @@
-import { ImPodcast } from "react-icons/im";
-import VisionAndMission from "./Vision-Mission";
-import { About } from './About';
 
-const wezeshaApp = () => {
-  return (
+import Product from "./Product"
+import About from './About'
+import VisionAndMission from "./Vision-Mission";
+
+const App =()=>{
+  return(
     <div>
-      <h1></h1>
-      <VisionAndMission/>
+
       <About/>
+      <VisionAndMission/>
+      <Product/>
     </div>
   )
 }
+export default App
 
-export default wezeshaApp;
