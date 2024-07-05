@@ -1,12 +1,11 @@
 
-import Team from './team'
-import Footer from './footer'
+import Team from './Team'
+import Footer from './Footer'
 
 
 const wezeshaApp =()=>{
   return(
     <div>
-      <h1></h1>
       
       <Team/>
       <Footer/>
