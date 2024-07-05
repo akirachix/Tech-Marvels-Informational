@@ -1,14 +1,12 @@
+import Product from "./Product"
+import About from './About'
 
-import {About} from './About'
-
-const wezeshaApp =()=>{
+const App =()=>{
   return(
     <div>
-  
-     
       <About/>
-    
+      <Product/>
     </div>
   )
 }
-export default wezeshaApp;
+export default App

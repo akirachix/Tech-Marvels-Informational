@@ -2,7 +2,7 @@ import './index.css'
 import logo from '../images/logo.png'
 
 
-export function About(){
+const About = () =>{
     return(
         <div>
             <div className='container'>
@@ -22,3 +22,5 @@ export function About(){
         </div>
     )
 }
+
+export default About;
