@@ -1,7 +1,7 @@
 import Product from "./Product"
 import About from './About'
 
-const wezeshaApp =()=>{
+const App =()=>{
   return(
     <div>
       <About/>
@@ -9,4 +9,4 @@ const wezeshaApp =()=>{
     </div>
   )
 }
-export default wezeshaApp
+export default App
