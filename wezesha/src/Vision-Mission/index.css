@@ -35,7 +35,7 @@
 @media screen and (min-width:280px) and (max-width:380px){
     #vision-about{
         display: block;
-        margin-left: -3.5%;
+        margin-left: 2.5%;
         font-size: 20px;
         margin-top: 5%;
         font-family: 'Karma',sans-serif;
@@ -44,27 +44,27 @@
     }
 
     .mission-text{
-        width:80%;
-        margin-left: 63px;
+        width:87%;
+        margin-left: 23px;
         flex-wrap: wrap;
         
     }
 
     .vision-text{
-        width:80%;
+        width:85%;
         flex-wrap: wrap;
-        margin-left: 63px;
+        margin-left: 23px;
        
     }
 
     #mission-image{
-        margin-left: 29%;
+        margin-left: 23%;
         width: 217px;
         height: 183px;
     }
 
     #vision-image{
-        margin-left: 25%;
+        margin-left: 23%;
         width: 187px;
         margin-top: 15px;
 
@@ -85,7 +85,7 @@
 
     .mission-text{
         width:80%;
-        margin-left: 63px;
+        margin-left: 50px;
         flex-wrap: wrap;
         
     }
@@ -93,7 +93,7 @@
     .vision-text{
         width:80%;
         flex-wrap: wrap;
-        margin-left: 60px;
+        margin-left: 50px;
        
     }
 
@@ -155,7 +155,7 @@
 @media screen and (min-width:460px) and (max-width:560px){
     #vision-about{
         display: block;
-        margin-left: -3.5%;
+        margin-left: 0%;
         font-size: 20px;
         margin-top: 5%;
         font-family: 'Karma',sans-serif;
@@ -166,7 +166,7 @@
 
     .mission-text{
         width:120%;
-        margin-left: 100px;
+        margin-left: 10%;
         flex-wrap: wrap;
         
     }
@@ -174,7 +174,7 @@
     .vision-text{
         width:120%;
         flex-wrap: wrap;
-        margin-left: 100px;
+        margin-left: 10%;
        
     }
 
@@ -271,7 +271,7 @@
     #vision-about{
         display: block;
         margin-left: -3.5%;
-        font-size: 40px;
+        font-size: 30px;
         margin-top: 5%;
         font-family: 'Karma',sans-serif;
         margin-bottom: 5%;
@@ -281,7 +281,7 @@
 
     .mission-text{
         width:80%;
-        margin-left: 130px;
+        margin-left: 11%;
         flex-wrap: wrap;
         
     }
@@ -289,7 +289,7 @@
     .vision-text{
         width:80%;
         flex-wrap: wrap;
-        margin-left: 155px;
+        margin-left: 11%;
        
     }
 

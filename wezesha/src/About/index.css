@@ -132,13 +132,13 @@
             }
             .about-heading{
                 bottom: 76%;
-                left: 12%;
+                left: 9%;
                 font-size: 30px;
             }
             .welcome-text{
-                bottom: 50%;
-                left: 12%;
-                width: 85%;
+                bottom: 55%;
+                left: 8%;
+                width: 90%;
             
             }
             .welcome-text p{
@@ -147,12 +147,12 @@
 
             .ourStory-heading{
                 bottom:40%;
-                left: 12%;
+                left: 9%;
                 font-size: 30px;
             }
             .ourStory-text{
                 bottom: 7%;
-                left: 12%;
+                left: 9%;
                 width: 85%;
             }
             .ourStory-text p{
@@ -180,13 +180,13 @@
             }
             .about-heading{
                 bottom: 78%;
-                left: 12%;
+                left: 10%;
                 font-size: 30px;
             }
             .welcome-text{
                 bottom: 52%;
-                left: 12%;
-                width: 85%;
+                left: 7%;
+                width: 88%;
             
             }
             .welcome-text p{
@@ -195,12 +195,12 @@
 
             .ourStory-heading{
                 bottom:39%;
-                left: 12%;
+                left: 10%;
                 font-size: 30px;
             }
             .ourStory-text{
                 bottom: 1%;
-                left: 12%;
+                left: 8%;
                 width: 85%;
             }
             .ourStory-text p{
@@ -212,6 +212,8 @@
         .container{
             height: 650px;
             margin-top: 10%;
+            margin-left: 0%;
+            width: 139%;
             }
     
             .wezesha-img{
@@ -227,12 +229,12 @@
             }
             .about-heading{
                 bottom: 75%;
-                left: 10%;
+                left: 7%;
                 font-size: 35px;
             }
             .welcome-text{
                 bottom: 50%;
-                left: 10%;
+                left: 7%;
                 width: 85%;
             
             }
@@ -242,12 +244,12 @@
 
             .ourStory-heading{
                 bottom:38%;
-                left: 10%;
+                left: 7%;
                 font-size: 35px;
             }
             .ourStory-text{
                 bottom: 1%;
-                left: 10%;
+                left:7%;
                 width: 82%;
             }
             .ourStory-text p{
@@ -275,12 +277,12 @@
             }
             .about-heading{
                 bottom: 70%;
-                left: 7%;
+                left: 8%;
                 font-size: 40px;
             }
             .welcome-text{
                 bottom: 47%;
-                left: 7%;
+                left: 8%;
                 width: 85%;
             
             }
@@ -290,12 +292,12 @@
 
             .ourStory-heading{
                 bottom:33%;
-                left: 7%;
+                left: 8%;
                 font-size: 40px;
             }
             .ourStory-text{
                 bottom: 1%;
-                left: 7%;
+                left: 8%;
                 width: 85%;
             }
             .ourStory-text p{
