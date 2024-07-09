@@ -11,6 +11,7 @@ import Footer from './Footer'
 const wezeshaApp =()=>{
   return(
     <div>
+      
 
       <About/>
       <VisionAndMission/>
