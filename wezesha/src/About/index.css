@@ -1,12 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Karma:wght@300;400;500;600;700&display=swap');
 .container{
-    background-color: #2a88bb;
+    background-color: hsl(201, 63%, 45%);
     height: 550px;
     flex-wrap: wrap;
     font-family: 'Karma',sans-serif;
     margin-top: 10%;
     position: relative;
     }
+
     .about-heading{
         position:absolute;
         bottom: 65%;
@@ -130,13 +131,13 @@
                 margin-top: 20px;
             }
             .about-heading{
-                bottom: 76%;
-                left: 12%;
+                bottom: 75%;
+                left: 9%;
                 font-size: 30px;
             }
             .welcome-text{
                 bottom: 50%;
-                left: 12%;
+                left: 8%;
                 width: 85%;
             
             }
@@ -146,12 +147,12 @@
 
             .ourStory-heading{
                 bottom:40%;
-                left: 12%;
+                left: 9%;
                 font-size: 30px;
             }
             .ourStory-text{
                 bottom: 7%;
-                left: 12%;
+                left: 9%;
                 width: 85%;
             }
             .ourStory-text p{
@@ -179,13 +180,13 @@
             }
             .about-heading{
                 bottom: 78%;
-                left: 12%;
+                left: 10%;
                 font-size: 30px;
             }
             .welcome-text{
                 bottom: 52%;
-                left: 12%;
-                width: 85%;
+                left: 7%;
+                width: 88%;
             
             }
             .welcome-text p{
@@ -194,12 +195,12 @@
 
             .ourStory-heading{
                 bottom:39%;
-                left: 12%;
+                left: 10%;
                 font-size: 30px;
             }
             .ourStory-text{
                 bottom: 1%;
-                left: 12%;
+                left: 8%;
                 width: 85%;
             }
             .ourStory-text p{
@@ -211,6 +212,8 @@
         .container{
             height: 650px;
             margin-top: 10%;
+            margin-left: 0%;
+            width: 139%;
             }
     
             .wezesha-img{
@@ -226,27 +229,27 @@
             }
             .about-heading{
                 bottom: 75%;
-                left: 10%;
+                left: 7%;
                 font-size: 35px;
             }
             .welcome-text{
                 bottom: 50%;
-                left: 10%;
+                left: 7%;
                 width: 85%;
             
             }
             .welcome-text p{
-                font-size: 23px;
+                font-size: 25px;
             }
 
             .ourStory-heading{
                 bottom:38%;
-                left: 10%;
+                left: 7%;
                 font-size: 35px;
             }
             .ourStory-text{
                 bottom: 1%;
-                left: 10%;
+                left:7%;
                 width: 82%;
             }
             .ourStory-text p{
@@ -263,7 +266,7 @@
     
             .wezesha-img{
                 top: -15%;
-                left: 37%;    
+                left: 36%;    
                 width: 200px;
                 height: 200px;
             
@@ -274,12 +277,12 @@
             }
             .about-heading{
                 bottom: 70%;
-                left: 10%;
-                font-size: 35px;
+                left: 8%;
+                font-size: 40px;
             }
             .welcome-text{
                 bottom: 47%;
-                left: 10%;
+                left: 8%;
                 width: 85%;
             
             }
@@ -289,12 +292,12 @@
 
             .ourStory-heading{
                 bottom:33%;
-                left: 10%;
-                font-size: 35px;
+                left: 8%;
+                font-size: 40px;
             }
             .ourStory-text{
                 bottom: 1%;
-                left: 10%;
+                left: 8%;
                 width: 85%;
             }
             .ourStory-text p{
@@ -331,7 +334,7 @@
             
             }
             .welcome-text p{
-                font-size: 28px;
+                font-size: 25px;
             }
 
             .ourStory-heading{
@@ -345,7 +348,7 @@
                 width: 85%;
             }
             .ourStory-text p{
-                font-size: 28px;
+                font-size: 25px;
             }
 
     }
@@ -368,7 +371,7 @@
                 margin-top: 20px;
             }
             .about-heading{
-                bottom: 70%;
+                bottom: 60%;
                 left: 8%;
                 font-size: 40px;
             }
@@ -379,11 +382,11 @@
             
             }
             .welcome-text p{
-                font-size: 30px;
+                font-size: 25px;
             }
 
             .ourStory-heading{
-                bottom:31%;
+                bottom:21%;
                 left: 8%;
                 font-size: 40px;
             }
@@ -393,7 +396,7 @@
                 width: 85%;
             }
             .ourStory-text p{
-                font-size: 30px;
+                font-size: 23px;
             } 
 
     }
