@@ -204,10 +204,10 @@ body {
   #team-photos {
     display: flex;
     flex-wrap: wrap;
-    margin-top: 7%;
+    margin-top: -2%;
     width: 50%;
     gap: 55%;
-    margin-left: 19%;
+    margin-left: 23%;
     height: 100%;
   }
 
