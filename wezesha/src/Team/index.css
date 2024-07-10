@@ -15,7 +15,6 @@ body {
   flex-wrap: wrap;
   margin-top: 6%;
 }
-
 .title {
   text-align: center;
   color: #fff;
@@ -44,9 +43,7 @@ body {
     font-family: "Karma", sans-serif;
     width: 100%;
     margin-top: -2%;
-   
   }
-
   #team-photos {
     display: flex;
     flex-wrap: wrap;
@@ -111,8 +108,6 @@ body {
     font-style: oblique;
   }
 }
-
-
 
 @media screen and (min-width: 414px) and (max-width: 512px) {
   #team {
@@ -303,13 +298,13 @@ body {
 
   #team-figcap {
     margin-left: 91px;
-}
+  }
 
-#figcap-text {
-  color: #fff;
-  font-size: xx-large;
-  margin-left: 10px;
-margin-top: 8%;
+  #figcap-text {
+    color: #fff;
+    font-size: xx-large;
+    margin-left: 10px;
+    margin-top: 8%;
     font-style: oblique;
   }
 }
@@ -323,13 +318,13 @@ margin-top: 8%;
     margin-top: -2%;
   }
 
-   #team-photos {
+  #team-photos {
     display: flex;
     flex-wrap: wrap;
     margin-top: 7%;
     margin-left: -1%;
     height: 90%;
-  } 
+  }
 
   #pic {
     height: 100px;
@@ -351,11 +346,9 @@ margin-top: 8%;
     margin-top: 8%;
     font-style: oblique;
   }
-} 
+}
 
-
-
- @media screen and (min-width: 1280px) and (max-width: 1350px) {
+@media screen and (min-width: 1280px) and (max-width: 1350px) {
   #team {
     font-family: "Karma", sans-serif;
     width: 100%;
@@ -387,4 +380,4 @@ margin-top: 8%;
     margin-left: 4px;
     margin-top: 8%;
   }
-}   
+}
