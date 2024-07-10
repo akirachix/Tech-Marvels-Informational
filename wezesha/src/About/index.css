@@ -18,10 +18,11 @@
     .welcome-text{
         position:absolute;
         bottom: 45%;
-        left: 10.5%;
-        width: 80%;
+        left: 10%;
+        width: 87%;
+        margin-top: 10%;
         flex-wrap: wrap;
-    
+        
     }
     .welcome-text p{
         color: white;
@@ -49,6 +50,7 @@
         position:absolute;
         bottom:28%;
         left: 44%;
+        margin-top: 10%;
         font-size: 50px;
         color: white;
     }
@@ -258,7 +260,7 @@
 
     }
 
-    @media screen and (min-width: 681px) and (max-width: 780px) {
+    @media screen and (min-width: 681px) and (max-width: 770px) {
         .container{
             height: 650px;
             margin-top: 20%;
@@ -304,8 +306,17 @@
                 font-size: 25px;
             }
     }
+    /* @media screen and (min-width: 780px) and (max-width: 819px){
+        .welcome-text{
+            bottom: 47%;
+            left: 8%;
+            width: 85%;
+            margin-top: 20%;
+        
+        }  
+    } */
 
-    @media screen and (min-width: 820px) and (max-width: 920px) {
+    @media screen and (min-width: 810px) and (max-width: 920px) {
         .container{
             height: 650px;
             margin-top: 10%;
@@ -357,6 +368,7 @@
         .container{
             height: 650px;
             margin-top: 10%;
+            width: 120%;
             }
     
             .wezesha-img{
@@ -378,8 +390,7 @@
             .welcome-text{
                 bottom: 45%;
                 left: 8%;
-                width: 85%;
-            
+                width: 85%;            
             }
             .welcome-text p{
                 font-size: 25px;

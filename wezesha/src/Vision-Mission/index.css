@@ -22,12 +22,12 @@
 }
 
 #mission-image{
-    margin-left: 10%;
+    margin-left: 4%;
     width: 650px;
     height: 319;
 }
 #vision-image{
-    margin-left: -74px;
+    margin-left: -22%;
     width: 518px;
     height: 319;
 }
@@ -233,7 +233,7 @@
     #vision-about{
         display: block;
         margin-left: -10%;
-        font-size: 25px;
+        font-size: 23px;
         margin-top: 5%;
         font-family: 'Karma',sans-serif;
         margin-bottom: 33px;
@@ -313,6 +313,7 @@
         font-size: 23px;
         font-family: 'Karma',sans-serif;
         margin-bottom: 5%;
+        width: 120%;
     }
 
     .mission-text{
@@ -349,7 +350,7 @@
         margin-top: 5%;
         font-family: 'Karma',sans-serif;
         margin-bottom: 5%;
-
+       width: 100%;
     
     }
 
