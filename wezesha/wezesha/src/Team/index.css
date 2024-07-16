@@ -1,0 +1,390 @@
+@import url("https://fonts.googleapis.com/css2?family=Karma:wght@300;400;500;600;700&display=swap");
+#team {
+  font-family: "Karma", sans-serif;
+  width: 100%;
+  background-color: #2a88bd;
+  height: 200%;
+  margin-top: -2%;
+}
+body {
+  height: auto;
+}
+
+#team-photos {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 6%;
+}
+
+.title {
+  text-align: center;
+  color: #fff;
+  font-size: 50px;
+  margin-top: 5%;
+}
+
+#pic {
+  height: 150px;
+  border-radius: 50%;
+  margin-top: -15%;
+}
+#team-figcap {
+  margin-left: 91px;
+}
+#figcap-text {
+  color: #fff;
+  font-size: 20px;
+  margin-left: 15px;
+  margin-top: 3%;
+  font-style: oblique;
+}
+
+@media screen and (min-width: 300px) and (max-width: 350px) {
+  #team {
+    font-family: "Karma", sans-serif;
+    width: 100%;
+    margin-top: -2%;
+   
+  }
+
+  #team-photos {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 7%;
+    width: 50%;
+    gap: 55%;
+    margin-left: 4%;
+  }
+
+  #pic {
+    height: 150px;
+    border-radius: 50%;
+    margin-top: -15%;
+  }
+
+  #team-figcap {
+    margin-left: 91px;
+  }
+
+  #figcap-text {
+    color: #fff;
+    font-size: 18px;
+    margin-left: 15px;
+    margin-top: 8%;
+    font-style: oblique;
+  }
+}
+
+@media screen and (min-width: 360px) and (max-width: 412px) {
+  #team {
+    font-family: "Karma", sans-serif;
+    width: 100%;
+    height: 400%;
+    background-color: #2a88bd;
+    margin-top: -2%;
+  }
+
+  #team-photos {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 7%;
+    width: 50%;
+    gap: 55%;
+    margin-left: 7%;
+  }
+
+  #pic {
+    height: 150px;
+    border-radius: 50%;
+    margin-top: -15%;
+  }
+
+  #team-figcap {
+    margin-left: 91px;
+  }
+
+  #figcap-text {
+    color: #fff;
+    font-size: 18px;
+    margin-left: 15px;
+    margin-top: 8%;
+    font-style: oblique;
+  }
+}
+
+
+
+@media screen and (min-width: 414px) and (max-width: 512px) {
+  #team {
+    font-family: "Karma", sans-serif;
+    width: 100%;
+    height: 400%;
+    background-color: #2a88bd;
+    margin-top: -2%;
+  }
+
+  #team-photos {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 7%;
+    width: 50%;
+    gap: 55%;
+    margin-left: 9%;
+  }
+
+  #pic {
+    height: 150px;
+    border-radius: 50%;
+    margin-top: -15%;
+  }
+
+  #team-figcap {
+    margin-left: 91px;
+  }
+
+  #figcap-text {
+    color: #fff;
+    font-size: 18px;
+    margin-left: 15px;
+    margin-top: 8%;
+    font-style: oblique;
+  }
+}
+
+@media screen and (min-width: 540px) and (max-width: 590px) {
+  #team {
+    font-family: "Karma", sans-serif;
+    width: 139%;
+    height: 400%;
+    background-color: #2a88bd;
+    margin-top: -2%;
+  }
+
+  #team-photos {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 7%;
+    width: 50%;
+    gap: 55%;
+    margin-left: 28%;
+    height: 100%;
+  }
+
+  #pic {
+    height: 150px;
+    border-radius: 50%;
+    margin-top: -15%;
+  }
+  .title {
+    margin-left: 7%;
+    margin-top: 2%;
+  }
+
+  #team-figcap {
+    margin-left: 91px;
+  }
+
+  #figcap-text {
+    color: #fff;
+    font-size: 18px;
+    margin-left: 15px;
+    margin-top: 8%;
+    font-style: oblique;
+  }
+}
+@media screen and (min-width: 600px) and (max-width: 770px) {
+  #team {
+    font-family: "Karma", sans-serif;
+    width: 100%;
+    height: 400%;
+    background-color: #2a88bd;
+    margin-top: -2%;
+  }
+
+  #team-photos {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: -2%;
+    width: 50%;
+    gap: 55%;
+    margin-left: 23%;
+    height: 100%;
+  }
+
+  #pic {
+    height: 220px;
+    margin-top: -15%;
+  }
+  .title {
+    margin-top: -1.1%;
+    font-size: 60px;
+  }
+
+  #team-figcap {
+    margin-left: 91px;
+  }
+
+  #figcap-text {
+    color: #fff;
+    font-size: x-large;
+    margin-left: 30px;
+    margin-top: 8%;
+    font-style: oblique;
+  }
+}
+
+@media screen and (min-width: 810px) and (max-width: 870px) {
+  #team {
+    font-family: "Karma", sans-serif;
+    height: 400%;
+    background-color: #2a88bd;
+    margin-top: -2%;
+    width: 100%;
+  }
+
+  #team-photos {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 5%;
+    gap: 50%;
+    margin-left: 25%;
+    height: 160%;
+  }
+
+  #pic {
+    height: 200px;
+    margin-top: -15%;
+  }
+  .title {
+    margin-top: 2%;
+    font-size: 60px;
+  }
+
+  #team-figcap {
+    margin-left: 91px;
+  }
+
+  #figcap-text {
+    color: #fff;
+    font-size: x-large;
+    margin-left: 30px;
+    margin-top: 8%;
+    font-style: oblique;
+  }
+}
+
+@media screen and (min-width: 871px) and (max-width: 920px) {
+  #team {
+    font-family: "Karma", sans-serif;
+    width: 100%;
+    height: 360%;
+    background-color: #2a88bd;
+    margin-top: -2%;
+  }
+
+  #team-photos {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 5%;
+    gap: 24%;
+    margin-left: 28%;
+    height: 160%;
+  }
+
+  #pic {
+    height: 210px;
+    margin-top: -15%;
+  }
+  .title {
+    margin-top: 2%;
+    font-size: 60px;
+    margin-left: 4%;
+  }
+
+  #team-figcap {
+    margin-left: 91px;
+}
+
+#figcap-text {
+  color: #fff;
+  font-size: xx-large;
+  margin-left: 10px;
+margin-top: 8%;
+    font-style: oblique;
+  }
+}
+
+@media screen and (min-width: 1000px) and (max-width: 1024px) {
+  #team {
+    font-family: "Karma", sans-serif;
+    width: 100%;
+    height: 400%;
+    background-color: #2a88bd;
+    margin-top: -2%;
+  }
+
+   #team-photos {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 7%;
+    margin-left: -1%;
+    height: 90%;
+  } 
+
+  #pic {
+    height: 100px;
+    margin-top: -15%;
+  }
+  .title {
+    margin-top: 2%;
+    font-size: 60px;
+    margin-left: 3%;
+  }
+
+  #team-figcap {
+    margin-left: 50px;
+  }
+
+  #figcap-text {
+    font-size: large;
+    margin-left: -2%;
+    margin-top: 8%;
+    font-style: oblique;
+  }
+} 
+
+
+
+ @media screen and (min-width: 1280px) and (max-width: 1350px) {
+  #team {
+    font-family: "Karma", sans-serif;
+    /* width: 100%; */
+    height: 400%;
+    margin-top: -2%;
+  }
+
+  #team-photos {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 9%;
+    height: 70%;
+    margin-left: -2%;
+  }
+
+  #pic {
+    height: 115px;
+    margin-top: -15%;
+  }
+  .title {
+    font-size: 50px;
+  }
+
+  #team-figcap {
+    margin-left: 70px;
+  }
+
+  #figcap-text {
+    margin-left: 2px;
+    margin-top: 8%;
+  }
+}   

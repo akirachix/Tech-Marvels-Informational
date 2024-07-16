@@ -1,5 +1,4 @@
-import Landingpage  from "./Landing";
-import Navbar from "./Navbar";
+
 import Product from "./Product"
 import About from './About'
 import VisionAndMission from "./Vision-Mission";
@@ -9,11 +8,11 @@ import Footer from './Footer'
 
 
 
-const App =()=>{
+const wezeshaApp =()=>{
   return(
     <div>
-      <Navbar/>
-      <Landingpage/>
+      
+
       <About/>
       <VisionAndMission/>
       <Product/>      
@@ -22,4 +21,10 @@ const App =()=>{
     </div>
   )
 }
-export default App;
+
+export default wezeshaApp;
+
+
+
+
+

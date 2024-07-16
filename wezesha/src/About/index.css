@@ -1,0 +1,413 @@
+@import url('https://fonts.googleapis.com/css2?family=Karma:wght@300;400;500;600;700&display=swap');
+.container{
+    background-color: hsl(201, 63%, 45%);
+    height: 550px;
+    flex-wrap: wrap;
+    font-family: 'Karma',sans-serif;
+    margin-top: 10%;
+    position: relative;
+    }
+
+    .about-heading{
+        position:absolute;
+        bottom: 65%;
+        left: 40%;
+        font-size: 50px;
+        color: white;
+    }
+    .welcome-text{
+        position:absolute;
+        bottom: 45%;
+        left: 10%;
+        width: 87%;
+        margin-top: 10%;
+        flex-wrap: wrap;
+        
+    }
+    .welcome-text p{
+        color: white;
+        font-size: 30px;
+    }
+    
+    .wezesha-img{
+        background-color: white;
+        position: absolute;
+        top: -20%;
+        left: 44.5%;    
+        width: 200px;
+        height: 200px;
+        opacity: 100%;
+        text-align: center;
+        border-radius: 50%;
+    
+    }
+    
+    .wezesha-img img{
+        width: 110px;
+        margin-top: 20px;
+    }
+    .ourStory-heading{
+        position:absolute;
+        bottom:28%;
+        left: 44%;
+        margin-top: 10%;
+        font-size: 50px;
+        color: white;
+    }
+    .ourStory-text{
+        position:absolute;
+        bottom: 1%;
+        left: 10.5%;
+        width:80%;
+        flex-wrap: wrap;
+    }
+    .ourStory-text p{
+        color: white;
+        font-size: 30px;
+    }
+    
+    @media only screen and (min-width: 280px) and (max-width: 359px) {
+        .container{
+            height: 550px;
+            margin-top: 15%;
+            }
+    
+            .wezesha-img{
+                top: -8%;
+                left: 34%;    
+                width: 100px;
+                height: 100px;
+              
+            
+            }
+            .wezesha-img img{
+                width: 50px;
+                margin-top: 20px;
+            }
+            .about-heading{
+                bottom: 78%;
+                left: 10%;
+                font-size: 30px;
+            }
+            .welcome-text{
+                bottom: 54%;
+                left: 10%;
+                width: 85%;
+            
+            }
+            .welcome-text p{
+                font-size: 15px;
+            }
+
+            .ourStory-heading{
+                bottom:38%;
+                left: 10%;
+                font-size: 30px;
+            }
+            .ourStory-text{
+                bottom: 1%;
+                left: 10%;
+                width: 85%;
+            }
+            .ourStory-text p{
+                font-size: 15px;
+            }
+    }
+
+    @media only screen and (min-width: 360px) and (max-width: 380px) {
+        .container{
+            height: 610px;
+            margin-top: 15%;
+            }
+    
+            .wezesha-img{
+                top: -10%;
+                left: 34%;    
+                width: 130px;
+                height: 130px;
+              
+            
+            }
+            .wezesha-img img{
+                width: 68px;
+                margin-top: 20px;
+            }
+            .about-heading{
+                bottom: 75%;
+                left: 9%;
+                font-size: 30px;
+            }
+            .welcome-text{
+                bottom: 50%;
+                left: 8%;
+                width: 85%;
+            
+            }
+            .welcome-text p{
+                font-size: 17px;
+            }
+
+            .ourStory-heading{
+                bottom:40%;
+                left: 9%;
+                font-size: 30px;
+            }
+            .ourStory-text{
+                bottom: 7%;
+                left: 9%;
+                width: 85%;
+            }
+            .ourStory-text p{
+                font-size: 17px;
+            }
+    }
+
+    @media screen and (min-width: 381px) and (max-width: 480px) {
+        .container{
+            height: 650px;
+            margin-top: 20%;
+            }
+    
+            .wezesha-img{
+                top: -10%;
+                left: 34%;    
+                width: 130px;
+                height: 130px;
+              
+            
+            }
+            .wezesha-img img{
+                width: 68px;
+                margin-top: 20px;
+            }
+            .about-heading{
+                bottom: 78%;
+                left: 10%;
+                font-size: 30px;
+            }
+            .welcome-text{
+                bottom: 52%;
+                left: 7%;
+                width: 88%;
+            
+            }
+            .welcome-text p{
+                font-size: 20px;
+            }
+
+            .ourStory-heading{
+                bottom:39%;
+                left: 10%;
+                font-size: 30px;
+            }
+            .ourStory-text{
+                bottom: 1%;
+                left: 8%;
+                width: 85%;
+            }
+            .ourStory-text p{
+                font-size: 20px;
+            }
+    }
+    
+    @media screen and (min-width: 481px) and (max-width: 580px) {
+        .container{
+            height: 650px;
+            margin-top: 10%;
+            margin-left: 0%;
+            width: 139%;
+            }
+    
+            .wezesha-img{
+                top: -10%;
+                left: 37%;    
+                width: 150px;
+                height: 150px;
+            
+            }
+            .wezesha-img img{
+                width: 80px;
+                margin-top: 20px;
+            }
+            .about-heading{
+                bottom: 75%;
+                left: 7%;
+                font-size: 35px;
+            }
+            .welcome-text{
+                bottom: 50%;
+                left: 7%;
+                width: 85%;
+            
+            }
+            .welcome-text p{
+                font-size: 25px;
+            }
+
+            .ourStory-heading{
+                bottom:38%;
+                left: 7%;
+                font-size: 35px;
+            }
+            .ourStory-text{
+                bottom: 1%;
+                left:7%;
+                width: 82%;
+            }
+            .ourStory-text p{
+                font-size: 23px;
+            }
+
+    }
+
+    @media screen and (min-width: 681px) and (max-width: 770px) {
+        .container{
+            height: 650px;
+            margin-top: 20%;
+            }
+    
+            .wezesha-img{
+                top: -15%;
+                left: 36%;    
+                width: 200px;
+                height: 200px;
+            
+            }
+            .wezesha-img img{
+                width: 110px;
+                margin-top: 20px;
+            }
+            .about-heading{
+                bottom: 70%;
+                left: 8%;
+                font-size: 40px;
+            }
+            .welcome-text{
+                bottom: 47%;
+                left: 8%;
+                width: 85%;
+            
+            }
+            .welcome-text p{
+                font-size: 25px;
+            }
+
+            .ourStory-heading{
+                bottom:33%;
+                left: 8%;
+                font-size: 40px;
+            }
+            .ourStory-text{
+                bottom: 1%;
+                left: 8%;
+                width: 85%;
+            }
+            .ourStory-text p{
+                font-size: 25px;
+            }
+    }
+    /* @media screen and (min-width: 780px) and (max-width: 819px){
+        .welcome-text{
+            bottom: 47%;
+            left: 8%;
+            width: 85%;
+            margin-top: 20%;
+        
+        }  
+    } */
+
+    @media screen and (min-width: 810px) and (max-width: 920px) {
+        .container{
+            height: 650px;
+            margin-top: 10%;
+            }
+    
+            .wezesha-img{
+                top: -15%;
+                left: 37%;    
+                width: 200px;
+                height: 200px;
+            
+            }
+            .wezesha-img img{
+                width: 110px;
+                margin-top: 20px;
+            }
+            .about-heading{
+                bottom: 70%;
+                left: 8%;
+                font-size: 38px;
+            }
+            .welcome-text{
+                bottom: 47%;
+                left: 8%;
+                width: 85%;
+            
+            }
+            .welcome-text p{
+                font-size: 25px;
+            }
+
+            .ourStory-heading{
+                bottom:30%;
+                left: 8%;
+                font-size: 38px;
+            }
+            .ourStory-text{
+                bottom: 1%;
+                left: 8%;
+                width: 85%;
+            }
+            .ourStory-text p{
+                font-size: 25px;
+            }
+
+    }
+
+    @media screen and (min-width: 921px) and (max-width: 1024px) {
+        .container{
+            height: 650px;
+            margin-top: 10%;
+            width: 120%;
+            }
+    
+            .wezesha-img{
+                top: -15%;
+                left: 37%;    
+                width: 200px;
+                height: 200px;
+            
+            }
+            .wezesha-img img{
+                width: 110px;
+                margin-top: 20px;
+            }
+            .about-heading{
+                bottom: 60%;
+                left: 8%;
+                font-size: 40px;
+            }
+            .welcome-text{
+                bottom: 45%;
+                left: 8%;
+                width: 85%;            
+            }
+            .welcome-text p{
+                font-size: 25px;
+            }
+
+            .ourStory-heading{
+                bottom:21%;
+                left: 8%;
+                font-size: 40px;
+            }
+            .ourStory-text{
+                bottom: 1%;
+                left: 8%;
+                width: 85%;
+            }
+            .ourStory-text p{
+                font-size: 23px;
+            } 
+
+    }

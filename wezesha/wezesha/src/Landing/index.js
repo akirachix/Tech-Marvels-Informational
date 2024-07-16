@@ -23,5 +23,6 @@ const Landingpage = () =>{
         </div>
       </div>
   );
+  
 }
 export default Landingpage;
