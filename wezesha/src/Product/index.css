@@ -37,7 +37,7 @@
     display: flex;
     margin-top: 6%;
     align-items: center;
-    margin-left: 9%;
+    margin-left: 7%;
     margin-bottom: 2%;
 }
 
@@ -440,7 +440,7 @@ body{
         margin-left:10%;
     }
     #product-info{
-        width: 100%;
+        width: 87%;
     }
 
     .about-mobileapp{
@@ -472,7 +472,7 @@ body{
 
     #about-portal{
         flex-wrap: wrap;
-        width: 87%;
+        width: 70%;
         margin-top: 10%;
     }
 
