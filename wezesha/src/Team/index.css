@@ -312,7 +312,7 @@ body {
 @media screen and (min-width: 1000px) and (max-width: 1024px) {
   #team {
     font-family: "Karma", sans-serif;
-    width: 120%;
+    width: 100%;
     height: 400%;
     background-color: #2a88bd;
     margin-top: -2%;
@@ -337,7 +337,7 @@ body {
   }
 
   #team-figcap {
-    margin-left: 91px;
+    margin-left: 50px;
   }
 
   #figcap-text {
@@ -351,7 +351,7 @@ body {
 @media screen and (min-width: 1280px) and (max-width: 1350px) {
   #team {
     font-family: "Karma", sans-serif;
-    width: 100%;
+    /* width: 100%; */
     height: 400%;
     margin-top: -2%;
   }
@@ -373,11 +373,11 @@ body {
   }
 
   #team-figcap {
-    margin-left: 89px;
+    margin-left: 70px;
   }
 
   #figcap-text {
-    margin-left: 4px;
+    margin-left: 2px;
     margin-top: 8%;
   }
 }
